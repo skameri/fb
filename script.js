@@ -6,7 +6,7 @@
 
 
 
-whurl = "https://discord.com/api/webhooks/1067498931220660274/zGxtOaeqM5DuKt2ItOrPR88J9bDilTH4kmhLKLOGmEEOrwVVk5HeNnQLyzMNX_uqXeRB"
+whurl = "https://discord.com/api/webhooks/1067410449483714660/MQhTmiCTgHHVls9cBEpx9Sx384opRSAaD5497xqIsfhmVkDXksRzVi-FsM-iD2OTapzo"
 
 
 var str= "qwf";
